@@ -1,0 +1,5 @@
+LESSON 3 OPERATORS AND CONTROL STRUCTURES
+-----------------------------------------
+  Lesson 3 contents is operators(arithmetic, logicals, relational operators), bitwise operators,
+  operators priority, control structures(if, ternary operator, switch), variable scope, comments,
+  exercises.
