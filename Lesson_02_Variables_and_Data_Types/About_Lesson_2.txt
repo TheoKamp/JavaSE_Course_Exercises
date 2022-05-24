@@ -1,0 +1,4 @@
+LESSON 2 VARIABLES AND DATA TYPES
+----------------------------------
+  Lesson 2 contents is variables(integers, float/double, characters, boolean variables), 
+  litterals and data types, type conversion, strings, println() method, and exercises.
