@@ -1,0 +1,5 @@
+LESSON 1 INTRODUCTION TO Java
+------------------------------
+  Lesson 1 talks about history of Java, basic differencies between Java and C/C++,
+  how Java works and Editions, install Java, install IDE,
+  the first program and exercises.
